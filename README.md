@@ -33,6 +33,8 @@ I'm a passionate **FULL STACK DEVELOPER AND CYBER SECURITY ENTHUSIAST** with exp
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Gaming Stream](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ## Get in Touch 📬
 
