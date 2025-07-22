@@ -38,6 +38,6 @@ I'm a passionate **FULL STACK DEVELOPER AND CYBER SECURITY ENTHUSIAST** with exp
 
 - **[Personal Website / Blog]**([Portfolio website](https://habibchris03.github.io/Porfolio-Website/))
 - **[LinkedIn]**([Get-to-me-on-linkedin](https://www.linkedin.com/in/banyuy-habib-50aa1b279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- **[Twitter]**([[Get-to-me-on-X](https://x.com/GUY_GIMS?t=t7Yz3mnDYY7vGzUEScS_pQ&s=09)
+- **[Twitter]**([Get-to-me-on-X](https://x.com/GUY_GIMS?t=t7Yz3mnDYY7vGzUEScS_pQ&s=09))
 
 
